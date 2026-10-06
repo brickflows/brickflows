@@ -17,7 +17,7 @@ Portfolio and full case studies: **[mikedoesrobots.com](https://mikedoesrobots.c
 ## Selected work
 
 - **[Café Racer Concept](https://mikedoesrobots.com/work/cafe-racer/)**: a complete motorcycle modelled part by part (217 parts), a frame redesigned until it passed, two parts planned for manufacture, and a 70-second product film. SolidWorks → ANSYS → Blender. Files in [`motorcycle`](https://github.com/brickflows/motorcycle).
-- **[Front wing in ground effect](https://mikedoesrobots.com/work/front-wing/)**: one wing at eleven ride heights in ANSYS Fluent. Downforce rises 47% as the gap closes to 44 mm, then stalls. Files in [`motorcycle/simulation/aerodynamics`](https://github.com/brickflows/motorcycle/tree/main/simulation/aerodynamics).
+- **[Front wing in ground effect](https://mikedoesrobots.com/work/front-wing/)**: one wing at eleven ride heights in ANSYS Fluent. Downforce rises 47% as the gap closes to 44 mm, then stalls. Files in [`front-wing-ground-effect`](https://github.com/brickflows/front-wing-ground-effect).
 - **Navi smart cane**: a navigation cane built by a four-person team. I lead the electronics and embedded side. In progress.
 - **6-axis cinema robot arm**: joint torques sized from first principles. In design.
 
